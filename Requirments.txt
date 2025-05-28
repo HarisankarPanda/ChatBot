@@ -1,0 +1,6 @@
+Ollama
+Langchain.community
+streamlit
+chromdb
+pymupdf
+sentence-transformer
